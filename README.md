@@ -31,8 +31,8 @@ While working on this project,I practiced:
 
 ## How to Run
 * Create a database named library
-* Create all tables using the provided SQL scripts and Insert the data.
-*Execute the queries
+* Create all tables using the provided SQL scripts and Insert the data
+* Execute the queries
 
 ## Purpose
 This project was created as part of a SQL Comprehensive Assessment to practice real-world database design and querying skills.
